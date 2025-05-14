@@ -1,7 +1,6 @@
+# Samiya Mahmud
+Individual assignment (openvms)
 # Samiya_tech
-Individual assignment (open vms) _1602357_sec B
-# Samiya_tech
-Individual assignment (open vms) _1602357_sec B
 
 **INSTALLATION PROCESS FOR OPEN VMS 
 
